@@ -1,6 +1,7 @@
 # 📄 Ulugbek Kamolkhodjaev - Single Page CV  
 
 A simple and responsive single-page CV built with **HTML & CSS**.  
+[The Project](https://roadmap.sh/projects/single-page-cv)
 
 ---
 
