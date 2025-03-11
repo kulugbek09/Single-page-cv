@@ -21,4 +21,4 @@ Before you begin, make sure you have the following:
 ### **1️⃣ Clone the Repository**  
 Open your terminal and run:  
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/kulugbek09/Single-page-cv.git
